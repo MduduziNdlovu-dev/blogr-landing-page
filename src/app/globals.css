@@ -35,3 +35,14 @@ p {
   font-family: 'Overpass', sans-serif;
   font-weight: 600;
 }
+
+.infrastructure{
+  background-image: url('/images/bg-pattern-circles.svg'), linear-gradient(135deg, hsl(258, 100%, 9%) 0%, hsla(258, 100%, 17%, 0.726) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: 50% bottom;
+  height: 55vh;
+  margin-top: 5rem;
+  border-bottom-left-radius: 5rem;
+  border-top-right-radius: 5rem;
+}
