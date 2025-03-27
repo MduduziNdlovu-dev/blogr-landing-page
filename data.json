@@ -1,0 +1,23 @@
+{
+    "footerLinks": {
+      "Product": [
+        { "name": "Overview", "url": "/product/overview" },
+        { "name": "Pricing", "url": "/product/pricing" },
+        { "name": "Marketplace", "url": "/product/marketplace" },
+        { "name": "Features", "url": "/product/features" },
+        { "name": "Integrations", "url": "/product/integrations" }
+      ],
+      "Company": [
+        { "name": "About", "url": "/company/about" },
+        { "name": "Team", "url": "/company/team" },
+        { "name": "Blog", "url": "/company/blog" },
+        { "name": "Careers", "url": "/company/careers" }
+      ],
+      "Connect": [
+        { "name": "Contact", "url": "/connect/contact" },
+        { "name": "Newsletter", "url": "/connect/newsletter" },
+        { "name": "LinkedIn", "url": "https://www.linkedin.com/company/yourcompany" }
+      ]
+    }
+  }
+  
