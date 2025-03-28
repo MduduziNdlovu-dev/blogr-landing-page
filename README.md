@@ -32,7 +32,7 @@ Users should be able to:
 ### Live Demo
 
 - [Solution URL](Solution) ([Add your solution URL here](https://github.com/MduduziNdlovu-dev/blogr-landing-page))
-- [Live Site](#) (Add your live site URL here)
+- [Live Site](Live Site) ([Add your live site URL here](https://blogr-landing-page-mocha.vercel.app))
 
 ## My Process
 
