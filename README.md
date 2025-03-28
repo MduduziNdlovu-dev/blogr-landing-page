@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Live Demo
 
-- [Solution URL](#) (Add your solution URL here)
+- [Solution URL](Solution) ([Add your solution URL here](https://github.com/MduduziNdlovu-dev/blogr-landing-page))
 - [Live Site](#) (Add your live site URL here)
 
 ## My Process

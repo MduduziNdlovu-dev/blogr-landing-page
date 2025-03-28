@@ -1,7 +1,6 @@
 'use client'
 import React, { useState, MouseEvent } from "react";
 import { AppBar, Toolbar, Button, Menu, MenuItem, Box, Typography } from "@mui/material";
-import Link from "next/link";
 
 const Navbar: React.FC = () => {
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
